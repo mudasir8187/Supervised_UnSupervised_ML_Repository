@@ -1,7 +1,7 @@
 # Supervised_UnSupervised_ML_Repository
 In this repository you will find all the notebook files of Supervised and Un-Supervised Machine Learning Algorithms.
 
-# ** Supervised Machine Learning**
+# **Supervised Machine Learning**
    	1. Simple linear Regression
 	2. Multi_linear Regression
 	3. Logistic Regression
